@@ -14,11 +14,11 @@ on:
       DEVICE_TREE_URL:
         description: 'DEVICE_TREE_URL'
         required: true
-        default: 'https://github.com/bggRGjQaUbCoE/android_device_samsung_y2q'
+        default: 'https://github.com/bggRGjQaUbCoE/action_y2q_twrp_device_tree'
       DEVICE_TREE_BRANCH:
         description: 'DEVICE_TREE_BRANCH'
         required: true
-        default: 'test2'
+        default: 'main'
       DEVICE_PATH:
         description: 'DEVICE_PATH'
         required: true
